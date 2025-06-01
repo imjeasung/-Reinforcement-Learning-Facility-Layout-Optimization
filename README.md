@@ -1,4 +1,3 @@
-# -Reinforcement-Learning-Facility-Layout-Optimization
 # 강화학습 기반 생산 설비 배치 최적화 (Reinforcement Learning Facility Layout Optimization)
 
 ## 🇰🇷 소개 (Introduction - Korean)
