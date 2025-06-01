@@ -86,13 +86,13 @@ This project was developed iteratively through the following stages. Each Python
 ---
 
 ## 🇰🇷 실행 방법 (How to Run - Korean)
-
+https://github.com/imjeasung/-Reinforcement-Learning-Facility-Layout-Optimization.git
 1.  이 레포지토리를 로컬 컴퓨터에 클론합니다:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/imjeasung/-Reinforcement-Learning-Facility-Layout-Optimization.git
     cd YOUR_REPOSITORY_NAME
     ```
-2.  필요한 라이브러리를 설치합니다. (Python 3.7+ 권장)
+2.  필요한 라이브러리를 설치합니다. (Python 3.8+ 권장)
     ```bash
     pip install torch numpy matplotlib
     ```
